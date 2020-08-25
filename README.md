@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=userkazun&show_icons=true&theme=radical&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UserKazun&show_icons=true&theme=nord&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userkazun&hide=javascript,html,css)](https://github.com/userkazun/github-readme-stats)
 <!--
