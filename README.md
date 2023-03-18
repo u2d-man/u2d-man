@@ -55,6 +55,12 @@ https://prtimes.jp/webclipping/service/
 * 用いた言語や技術
   * AWS ECS、Terraform
 すでに他のチームにはあったので、その環境を真似するようにWebクリッピングの開発環境にも導入
+  
+### 2022/11 テスト環境を構築
+* 用いた言語や技術
+  * PHP、phpunit、Github Actions
+古くからある環境で、テストが一切なかった環境もあったので、それらに phpunit でテストができる環境を構築。
+その後 Github Actions を用いて CI 構築まで行った。
 
 ### 2022/11 ~ 2023/02 Webクリッピング正式版リリース
 * 用いた言語や技術
@@ -67,16 +73,23 @@ Webクリッピングチームだけではなく他のチームも巻き込ん�
 * OSS 活動
   * https://github.com/UserKazun/TaskManager_Sample
   * https://github.com/UserKazun/SwiftUIT
-  
+メンテナンスできていないので、メンテナンスしていきたいと思ってます。
+    
 * PHPerkaigi 登壇
   * https://fortee.jp/phperkaigi-2022/proposal/c5e23ffc-4645-47d2-b6b8-5df1ac75d613
   * https://speakerdeck.com/userkazun/phperkaigi2022-mongo-niliu-matutayue-1-dot-6yi-jian-falseji-shi-detawo-bigquery-he-dot-dot-dot
-  
+
+これは実務の中で起きた問題を解決した時の話で、頑張ったので登壇しました。
+    
 * CLI や Web App の実装
   * SQL から QueryDSL へ変換する [qc](https://github.com/UserKazun/qc)
     * Go
   * [画像投稿サービス](https://github.com/UserKazun/valorant-fm)
     * PHP、Nginx
 
+特に作った理由はないです。Query 変換器は QueryDSL が読みたくなかったので作りました。
+      
 * SwiftUI について YouTube 投稿
   * https://youtube.com/channel/UCJU4PjuyIEL43CTlPSFjW5Q
+
+1年間週1で動画を上げる頻度を維持していましたが、どこかの週末で体調を崩しそれが崩れてしまってから投稿できていないです。
