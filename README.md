@@ -91,8 +91,6 @@ MySQL のアップグレードプロジェクトをリードし、全体のス�
 * PHPerkaigi 登壇
   * https://fortee.jp/phperkaigi-2022/proposal/c5e23ffc-4645-47d2-b6b8-5df1ac75d613
   * https://speakerdeck.com/userkazun/phperkaigi2022-mongo-niliu-matutayue-1-dot-6yi-jian-falseji-shi-detawo-bigquery-he-dot-dot-dot
-
-これは実務の中で起きた問題を解決した時の話で、頑張ったので登壇しました。
     
 * CLI や Web App の実装
   * SQL から QueryDSL へ変換する [qc](https://github.com/UserKazun/qc)
