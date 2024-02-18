@@ -82,6 +82,14 @@ Webクリッピングチームだけではなく他のチームも巻き込ん�
 MySQL のアップグレードプロジェクトをリードし、全体のスケジュール感の決定やメンバーへのタスク割り当て等も行いました。<br>
 メジャーバージョンのアップデートということでアプリケーション等がちゃんと動作するのかをチェックしたり文字コードへの対応を行いました。<br>
 
+### 2024/1 MongoDB から Amazon DocumentDB への移行
+* 用いた言語や技術
+  * PHP、Amazon DocumentDB、MongoDB <br>
+MongoDB を DocumentDB へ移行させました。 MongoDB の運用コストが高くメンテナンスもされてきていなかったためマネージドサービスである DocumentDB へ移行させました。<br>
+これで障害が起きたとしても AWS のサポートを受けながら復旧することができ、社内で管理しないといけない範囲が大幅に減少し、また、 MongoDB の理解も深まりました。<br>
+データ移行は PHP でスクリプトを書いて MongoDB からデータを引いて CSV にする処理を実装し、その CSV を DocumentDB へインポートする形で進めました。<br>
+
+
 ## 業務外で行っていること
 * OSS 活動
   * https://github.com/UserKazun/TaskManager_Sample
