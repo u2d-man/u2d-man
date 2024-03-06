@@ -34,19 +34,19 @@ https://prtimes.jp/webclipping/service/
 * 用いた言語や技術
   * PHP、docker、github
 * レイヤードアーキテクチャとクリーンアーキテクチャの思想を混ぜ合わせて作られた独自のデザインパターン
-  * アーキテクチャの学習をしながら実務開発を行った
-書いた記事
-[社内ボイラープレートを用いた開発](https://developers.prtimes.jp/2021/05/10/boilerplate_dev/)
-[DDDとクリーンアーキテクチャをちょっとだけ理解した](https://qiita.com/UserKazun/items/e1ab9a7ed33898dd9005)
-[なぜドメインモデルを採用するのか?](https://qiita.com/UserKazun/items/32889f680aab41e84a15)
+  * アーキテクチャの学習をしながら実務開発を行った <br>
+書いた記事 <br>
+[社内ボイラープレートを用いた開発](https://developers.prtimes.jp/2021/05/10/boilerplate_dev/) <br>
+[DDDとクリーンアーキテクチャをちょっとだけ理解した](https://qiita.com/UserKazun/items/e1ab9a7ed33898dd9005) <br>
+[なぜドメインモデルを採用するのか?](https://qiita.com/UserKazun/items/32889f680aab41e84a15) <br>
 
 ### 2021/11 ~ 2022/4 Webクリッピングベータ版リリース
 * 用いた言語や技術
   * PHP、docker、AWS ECS <br>
-* すでに存在していたクリッピングを UI 等を一新し新たにリリース
-書いた記事
-[PR TIMES Webクリッピングβ版の提供を開始　プレスリリース管理画面から広報発表の成果分析が可能に](https://prtimes.jp/main/html/rd/p/000001209.000000112.html)
-[エンジニアがプレスリリース執筆。「ユーザーを理解していない」意外な気付きが、実は開発に必要なことだった](https://prtimes.jp/story/detail/MxzRjfL2QxE)
+* すでに存在していたクリッピングを UI 等を一新し新たにリリース <br>
+書いた記事 <br>
+[PR TIMES Webクリッピングβ版の提供を開始　プレスリリース管理画面から広報発表の成果分析が可能に](https://prtimes.jp/main/html/rd/p/000001209.000000112.html) <br>
+[エンジニアがプレスリリース執筆。「ユーザーを理解していない」意外な気付きが、実は開発に必要なことだった](https://prtimes.jp/story/detail/MxzRjfL2QxE) <br>
 
 ### 2022/06 Webクリッピングのステージング環境を復旧
 * 用いた言語や技術
