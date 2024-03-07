@@ -88,6 +88,7 @@ MySQL のアップグレードプロジェクトをリードし、全体のス�
 MongoDB を DocumentDB へ移行させました。 MongoDB の運用コストが高くメンテナンスもされてきていなかったためマネージドサービスである DocumentDB へ移行させました。<br>
 これで障害が起きたとしても AWS のサポートを受けながら復旧することができ、社内で管理しないといけない範囲が大幅に減少し、また、 MongoDB の理解も深まりました。<br>
 データ移行は PHP でスクリプトを書いて MongoDB からデータを引いて CSV にする処理を実装し、その CSV を DocumentDB へインポートする形で進めました。<br>
+https://developers.prtimes.jp/2024/03/07/migrate-mongodb-ec2-to-documentdb/
 
 
 ## 業務外で行っていること
