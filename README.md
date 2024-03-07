@@ -35,6 +35,7 @@ https://prtimes.jp/webclipping/service/
   * PHP、docker、github
 * レイヤードアーキテクチャとクリーンアーキテクチャの思想を混ぜ合わせて作られた独自のデザインパターン
   * アーキテクチャの学習をしながら実務開発を行った <br>
+  
 書いた記事 <br>
 [社内ボイラープレートを用いた開発](https://developers.prtimes.jp/2021/05/10/boilerplate_dev/) <br>
 [DDDとクリーンアーキテクチャをちょっとだけ理解した](https://qiita.com/UserKazun/items/e1ab9a7ed33898dd9005) <br>
@@ -44,6 +45,7 @@ https://prtimes.jp/webclipping/service/
 * 用いた言語や技術
   * PHP、docker、AWS ECS <br>
 * すでに存在していたクリッピングを UI 等を一新し新たにリリース <br>
+
 書いた記事 <br>
 [PR TIMES Webクリッピングβ版の提供を開始　プレスリリース管理画面から広報発表の成果分析が可能に](https://prtimes.jp/main/html/rd/p/000001209.000000112.html) <br>
 [エンジニアがプレスリリース執筆。「ユーザーを理解していない」意外な気付きが、実は開発に必要なことだった](https://prtimes.jp/story/detail/MxzRjfL2QxE) <br>
@@ -88,7 +90,9 @@ MySQL のアップグレードプロジェクトをリードし、全体のス�
 MongoDB を DocumentDB へ移行させました。 MongoDB の運用コストが高くメンテナンスもされてきていなかったためマネージドサービスである DocumentDB へ移行させました。<br>
 これで障害が起きたとしても AWS のサポートを受けながら復旧することができ、社内で管理しないといけない範囲が大幅に減少し、また、 MongoDB の理解も深まりました。<br>
 データ移行は PHP でスクリプトを書いて MongoDB からデータを引いて CSV にする処理を実装し、その CSV を DocumentDB へインポートする形で進めました。<br>
-https://developers.prtimes.jp/2024/03/07/migrate-mongodb-ec2-to-documentdb/
+
+書いた記事 <br>
+[Amazon EC2 で構築された MongoDB を DocumentDB へ移行しました！](https://developers.prtimes.jp/2024/03/07/migrate-mongodb-ec2-to-documentdb/)
 
 
 ## 業務外で行っていること
