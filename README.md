@@ -23,7 +23,7 @@ zenn: https://zenn.dev/userkazun
 2020/4 ~ 現在
 
 ## 業務内容
-### 2021/8 ~ 2023/2 Webクリッピング開発チーム開発リーダー
+### 2021/8 ~ 2023/2 Webクリッピング開発チームリーダー
 #### Webクリッピングについて
 https://prtimes.jp/webclipping/service/
 
