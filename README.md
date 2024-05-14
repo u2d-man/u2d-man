@@ -43,7 +43,7 @@ https://prtimes.jp/webclipping/service/
 
 ### 2021/11 ~ 2022/4 Webクリッピングベータ版リリース
 * 用いた言語や技術
-  * PHP、docker、AWS ECS <br>
+  * PHP、docker、Amazon ECS <br>
 * すでに存在していたクリッピングを UI 等を一新し新たにリリース <br>
 
 書いた記事 <br>
@@ -52,12 +52,12 @@ https://prtimes.jp/webclipping/service/
 
 ### 2022/06 Webクリッピングのステージング環境を復旧
 * 用いた言語や技術
-  * AWS EC2 <br>
+  * Amazon EC2 <br>
 過去数年であまりメンテナンスされておらず、頻繁に壊れていたので、複数あった根本原因を技術的背景から特定し、復旧させました。
 
 ### 2022/10 マルチステージング環境構築
 * 用いた言語や技術
-  * AWS ECS、Terraform <br>
+  * Amazon ECS、Terraform <br>
 すでに他のチームにはあったので、その環境を真似するようにWebクリッピングの開発環境にも導入
   
 ### 2022/11 テスト環境を構築
@@ -68,14 +68,14 @@ https://prtimes.jp/webclipping/service/
 
 ### 2022/11 ~ 2023/2 Webクリッピング正式版リリース
 * 用いた言語や技術
-  * PHP、docker、AWS ECS <br>
+  * PHP、docker、Amazon ECS <br>
 2021/4 にリリースしたベータ版を有料にして正式版としてリリース。<br>
 Webクリッピングチームだけではなく他のチームも巻き込んで、開発負荷を分散できるように設計から開発まで実施しました。<br>
 他のメンバーの協力もあり、プロジェクト開始時期に立てていたスケジュール通り進行。<br>
 
 ### 2023/2 ~ 2023/7 Webクリッピング完全移行
 * 用いた言語や技術
-  * PHP、docker、AWS ECS <br>
+  * PHP、docker、Amazon ECS <br>
 有料化した際には一部の機能だけのリリースだけだったが、全ての必要な機能を実装して完全移行しました。<br>
 
 ### 2023/9 MySQL メジャーバージョンアップデート
