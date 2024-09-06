@@ -94,6 +94,16 @@ MongoDB を DocumentDB へ移行させました。 MongoDB の運用コストが
 書いた記事 <br>
 [Amazon EC2 で構築された MongoDB を DocumentDB へ移行しました！](https://developers.prtimes.jp/2024/03/07/migrate-mongodb-ec2-to-documentdb/)
 
+### 2024/6 ~ 2024/8 PR TIMES Web クリッピングでクリッププレビュー機能の実装
+* 用いた言語や技術
+  * フロントエンド:React,TypeScript,Playwright,vitest,Storybook,OpenAPI
+  * バックエンド：PHP <br>
+新機能となるクリッププレビュー機能を実装しました。私がメインとなり仕様書作成からフロント実装、バックエンド実装、QA を行いました。<br>
+初めてフロントエンド実装を行い色々学びになりました。
+
+書いた記事 <br>
+[バックエンドエンジニアから見たフロントエンド開発の魅力と学び](https://developers.prtimes.jp/2024/09/06/frontend-challenge-learnings/)
+ 
 
 ## 業務外で行っていること
 * OSS 活動
