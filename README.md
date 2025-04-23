@@ -16,111 +16,86 @@ zenn: https://zenn.dev/userkazun
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 
+
 # 職務経歴書
 
-## 株式会社PR TIMES
+## 株式会社 PR TIMES（2020年4月 ～ 現在）
 
-2020/4 ~ 現在
+---
 
-## 業務内容
-### 2021/8 ~ 2023/2 Webクリッピング開発チームリーダー
-#### Webクリッピングについて
-https://prtimes.jp/webclipping/service/
+### 概要
+Webクリッピング関連プロダクトの開発と運用をリード。フロントエンドからインフラ、テスト自動化、DB移行に至るまで幅広く対応し、プロジェクト推進とチーム連携にも注力。
 
-* スケジュールやタスク管理
-* 開発者体験向上のためにデイリーミーティングの試行錯誤
+---
 
-### 2020/4 ~ 2021/4 社内独自のデザインパターンで管理画面実装
-* 用いた言語や技術
-  * PHP、docker、github
-* レイヤードアーキテクチャとクリーンアーキテクチャの思想を混ぜ合わせて作られた独自のデザインパターン
-  * アーキテクチャの学習をしながら実務開発を行った <br>
-  
-書いた記事 <br>
-[社内ボイラープレートを用いた開発](https://developers.prtimes.jp/2021/05/10/boilerplate_dev/) <br>
-[DDDとクリーンアーキテクチャをちょっとだけ理解した](https://qiita.com/UserKazun/items/e1ab9a7ed33898dd9005) <br>
-[なぜドメインモデルを採用するのか?](https://qiita.com/UserKazun/items/32889f680aab41e84a15) <br>
+### 主な実績
 
-### 2021/11 ~ 2022/4 Webクリッピングベータ版リリース
-* 用いた言語や技術
-  * PHP、docker、Amazon ECS <br>
-* すでに存在していたクリッピングを UI 等を一新し新たにリリース <br>
+#### 🔧 管理画面の実装（2020年4月 ～ 2021年4月）
+- **技術**: PHP, Docker, GitHub
+- **アーキテクチャ**: レイヤード＋クリーンアーキテクチャの社内パターンを理解・適用
+- **成果**:
+  - [社内ボイラープレートを用いた開発](https://developers.prtimes.jp/2021/05/10/boilerplate_dev/)
+  - [DDDとクリーンアーキテクチャをちょっとだけ理解した](https://qiita.com/UserKazun/items/e1ab9a7ed33898dd9005)
+  - [なぜドメインモデルを採用するのか?](https://qiita.com/UserKazun/items/32889f680aab41e84a15)
 
-書いた記事 <br>
-[PR TIMES Webクリッピングβ版の提供を開始　プレスリリース管理画面から広報発表の成果分析が可能に](https://prtimes.jp/main/html/rd/p/000001209.000000112.html) <br>
-[エンジニアがプレスリリース執筆。「ユーザーを理解していない」意外な気付きが、実は開発に必要なことだった](https://prtimes.jp/story/detail/MxzRjfL2QxE) <br>
+#### 🚀 Webクリッピングβ版リリース（2021年11月 ～ 2022年4月）
+- **技術**: PHP, Docker, Amazon ECS
+- **内容**:
+  - 既存UIを刷新し、β版として新規公開
+  - [提供開始リリース](https://prtimes.jp/main/html/rd/p/000001209.000000112.html)
+  - [開発に必要な気付き記事](https://prtimes.jp/story/detail/MxzRjfL2QxE)
 
-### 2022/06 Webクリッピングのステージング環境を復旧
-* 用いた言語や技術
-  * Amazon EC2 <br>
-過去数年であまりメンテナンスされておらず、頻繁に壊れていたので、複数あった根本原因を技術的背景から特定し、復旧させました。
+#### 👥 チームリーダーとして開発推進（2021年8月 ～ 2023年2月）
+[サービス紹介](https://prtimes.jp/webclipping/service/)
+- デイリーミーティング改善やタスク管理の導入
+- メンバーのタスクマネジメント
+- 他チームや部署との連携やスケジュール調整など
 
-### 2022/10 マルチステージング環境構築
-* 用いた言語や技術
-  * Amazon ECS、Terraform <br>
-すでに他のチームにはあったので、その環境を真似するようにWebクリッピングの開発環境にも導入
-  
-### 2022/11 テスト環境を構築
-* 用いた言語や技術
-  * PHP、phpunit、Github Actions <br>
-古くからある環境で、テストが一切なかった環境もあったので、それらに phpunit でテストができる環境を構築しました。 <br>
-その後 Github Actions を用いて CI 構築まで行った。
+#### 🔄 ステージング・インフラ整備（2022年）
+- **ステージング環境復旧**（6月）：Amazon EC2 の根本原因調査・修正
+- **マルチステージング導入**（10月）：Terraform＋ECSで他チーム環境を参考に構築
 
-### 2022/11 ~ 2023/2 Webクリッピング正式版リリース
-* 用いた言語や技術
-  * PHP、docker、Amazon ECS <br>
-2021/4 にリリースしたベータ版を有料にして正式版としてリリース。<br>
-Webクリッピングチームだけではなく他のチームも巻き込んで、開発負荷を分散できるように設計から開発まで実施しました。<br>
-他のメンバーの協力もあり、プロジェクト開始時期に立てていたスケジュール通り進行。<br>
+#### ✅ テスト環境構築とCI自動化（2022年11月）
+- **技術**: PHP, PHPUnit, GitHub Actions
+- テストが存在しなかったレガシー環境に対してCI/CDパイプラインを整備
 
-### 2023/2 ~ 2023/7 Webクリッピング完全移行
-* 用いた言語や技術
-  * PHP、docker、Amazon ECS <br>
-有料化した際には一部の機能だけのリリースだけだったが、全ての必要な機能を実装して完全移行しました。<br>
+#### 💼 正式版リリースと完全移行（2022年11月 ～ 2023年7月）
+- **技術**: PHP, Docker, Amazon ECS
+- β版を有料版としてリリースし、追加機能を実装して完全移行を達成
 
-### 2023/9 MySQL メジャーバージョンアップデート
-* 用いた言語や技術
-  * PHP、Amazon RDS for MySQL <br>
-MySQL のアップグレードプロジェクトをリードし、全体のスケジュール感の決定やメンバーへのタスク割り当て等も行いました。<br>
-メジャーバージョンのアップデートということでアプリケーション等がちゃんと動作するのかをチェックしたり文字コードへの対応を行いました。<br>
+#### 🛠 MySQL メジャーバージョンアップ（2023年9月）
+- **技術**: PHP, Amazon RDS for MySQL
+- アップグレード対応および互換性・文字コードの検証と対応
 
-### 2024/1 MongoDB から Amazon DocumentDB への移行
-* 用いた言語や技術
-  * PHP、Amazon DocumentDB、MongoDB <br>
-MongoDB を DocumentDB へ移行させました。 MongoDB の運用コストが高くメンテナンスもされてきていなかったためマネージドサービスである DocumentDB へ移行させました。<br>
-これで障害が起きたとしても AWS のサポートを受けながら復旧することができ、社内で管理しないといけない範囲が大幅に減少し、また、 MongoDB の理解も深まりました。<br>
-データ移行は PHP でスクリプトを書いて MongoDB からデータを引いて CSV にする処理を実装し、その CSV を DocumentDB へインポートする形で進めました。<br>
+#### 🔁 MongoDB → DocumentDB 移行（2024年1月）
+- **技術**: PHP, MongoDB, Amazon DocumentDB
+- 移行理由：高運用コストのMongoDBからAWS管理のDocumentDBへ
+- データ移行スクリプト作成（MongoDB → CSV → DocumentDB）
+- [詳細ブログ記事](https://developers.prtimes.jp/2024/03/07/migrate-mongodb-ec2-to-documentdb/)
 
-書いた記事 <br>
-[Amazon EC2 で構築された MongoDB を DocumentDB へ移行しました！](https://developers.prtimes.jp/2024/03/07/migrate-mongodb-ec2-to-documentdb/)
+#### ✨ クリッププレビュー機能実装（2024年6月 ～ 2024年8月）
+- **フロント**: React, TypeScript, Playwright, vitest, Storybook, OpenAPI
+- **バックエンド**: PHP
+- 一貫して仕様策定・実装・QA対応まで実施
+- [学びの共有記事](https://developers.prtimes.jp/2024/09/06/frontend-challenge-learnings/)
 
-### 2024/6 ~ 2024/8 PR TIMES Web クリッピングでクリッププレビュー機能の実装
-* 用いた言語や技術
-  * フロントエンド:React,TypeScript,Playwright,vitest,Storybook,OpenAPI
-  * バックエンド：PHP <br>
-新機能となるクリッププレビュー機能を実装しました。私がメインとなり仕様書作成からフロント実装、バックエンド実装、QA を行いました。<br>
-初めてフロントエンド実装を行い色々学びになりました。
+---
 
-書いた記事 <br>
-[バックエンドエンジニアから見たフロントエンド開発の魅力と学び](https://developers.prtimes.jp/2024/09/06/frontend-challenge-learnings/)
- 
+## 業務外活動
 
-## 業務外で行っていること
-* OSS 活動
-  * https://github.com/UserKazun/TaskManager_Sample
-  * https://github.com/UserKazun/SwiftUIT
-  * [Laravel への contribute](https://github.com/laravel/framework/pull/46802)
-    
-* PHPerkaigi 登壇
-  * https://fortee.jp/phperkaigi-2022/proposal/c5e23ffc-4645-47d2-b6b8-5df1ac75d613
-  * https://speakerdeck.com/userkazun/phperkaigi2022-mongo-niliu-matutayue-1-dot-6yi-jian-falseji-shi-detawo-bigquery-he-dot-dot-dot
-    
-* CLI や Web App の実装
-  * SQL から QueryDSL へ変換する [qc](https://github.com/UserKazun/qc)
-    * Go
-  * [画像投稿サービス](https://github.com/UserKazun/valorant-fm)
-    * PHP、Nginx
-      
-* SwiftUI について YouTube 投稿
-  * https://youtube.com/channel/UCJU4PjuyIEL43CTlPSFjW5Q
+### ✅ OSS 活動
+- [TaskManager_Sample](https://github.com/UserKazun/TaskManager_Sample)
+- [SwiftUIT](https://github.com/UserKazun/SwiftUIT)
+- [Laravel へのコントリビュート](https://github.com/laravel/framework/pull/46802)
+
+### 🎤 技術イベント登壇
+- [PHPerkaigi 2022 登壇内容](https://fortee.jp/phperkaigi-2022/proposal/c5e23ffc-4645-47d2-b6b8-5df1ac75d613)
+- [発表資料（SpeakerDeck）](https://speakerdeck.com/userkazun/phperkaigi2022-mongo-niliu-matutayue-1-dot-6yi-jian-falseji-shi-detawo-bigquery-he-dot-dot-dot)
+
+### 🛠 個人開発
+- SQL → QueryDSL 変換CLI：[qc](https://github.com/UserKazun/qc)（Go）
+- [画像投稿サービス](https://github.com/UserKazun/valorant-fm)（PHP/Nginx）
+
+### 📺 SwiftUI学習共有
+- [YouTubeチャンネル](https://youtube.com/channel/UCJU4PjuyIEL43CTlPSFjW5Q)
 
